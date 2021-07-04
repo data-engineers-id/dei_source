@@ -1,4 +1,4 @@
-# Sumber Belajar Data Engineer Telegram, Notion and many more insight about Data Engineer
+# Sumber Belajar Data Engineer, Telegram, Notion and many more insight about Data Engineer
 
 https://wellytambunan.gitbooks.io/distributed-system/content/
 
