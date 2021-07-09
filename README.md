@@ -1,6 +1,7 @@
 # Sumber Belajar Data Engineer, Telegram, Notion and many more insight about Data Engineer
 
 https://wellytambunan.gitbooks.io/distributed-system/content/
+https://weltam.wordpress.com/
 
 # Notion
 https://www.notion.so/Data-Engineering-Indonesia-cb080c5290f54ac889e156cb860ea234
