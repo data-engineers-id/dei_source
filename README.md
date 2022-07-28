@@ -12,6 +12,3 @@ https://www.notion.so/Data-Engineering-Data-Science-eb814f595c3a463c8ee789064078
 https://wellytambunan.medium.com/
 <br>
 https://bima-talking-programming.medium.com/
-
-# Telegram
-https://t.me/joinchat/kD3_4IjEJmw1Nzll
